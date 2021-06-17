@@ -1,3 +1,3 @@
-price = 10
-price = 20
-print(price)
+name = "John Smith"
+age = 20
+new_patient = True
